@@ -1,8 +1,8 @@
-IPDev-RevenueCycle-PatientAccounting.suite/Results
-IPDev-RevenueCycle-PatientAccounting.suite/Results/*
-IPDev-RevenueCycle-PatientAccounting.suite/Results/.timestamp
-IPDev-RevenueCycle-PatientAccounting.suite/Results/SuiteStatistics.csv
-IPDev-RevenueCycle-PatientAccounting.suite/.timestamp
-IPDev-RevenueCycle-PatientAccounting.suite/SuiteInfo
+RevenueCycleScript.suite/Results
+RevenueCycleScript.suite/Results/*
+RevenueCycleScript.suite/Results/.timestamp
+RevenueCycleScript.suite/Results/SuiteStatistics.csv
+RevenueCycleScript.suite/.timestamp
+RevenueCycleScript.suite/SuiteInfo
 *.corrupt
 *.txt
