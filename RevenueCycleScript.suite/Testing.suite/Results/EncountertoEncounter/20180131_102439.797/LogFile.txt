@@ -1,0 +1,8 @@
+﻿2018-01-31 10:24:39.804 -0600	START		Running EncountertoClaim.script
+2018-01-31 10:24:40.133 -0600	click	SelfPayTransactionsTab	at (741, 452)	19	on_encountertoclaim	EncountertoClaim.script
+2018-01-31 10:24:40.928 -0600	click	FirstTransaction	at (119, 568)	20	on_encountertoclaim	EncountertoClaim.script
+2018-01-31 10:24:41.639 -0600	typetext		[downArrow]	22	on_encountertoclaim	EncountertoClaim.script
+2018-01-31 10:24:42.350 -0600	typetext		[downArrow]	22	on_encountertoclaim	EncountertoClaim.script
+2018-01-31 10:24:57.144 -0600	Exception	SelectedTransaction	No Image Found On Screen: "SelectedTransaction"	24	on_encountertoclaim	EncountertoClaim.script
+2018-01-31 10:24:57.720 -0600	EndTestCase		(Duration:"17.911", Errors:"1", Exceptions:"1", StartTime:"2018-01-31 10:24:39 -0600", Successes:"0", TestCase:"EncountertoClaim.script", Warnings:"0")
+2018-01-31 10:24:57.722 -0600	ABORTED		Execution Time 0:00:18 EncountertoClaim.script

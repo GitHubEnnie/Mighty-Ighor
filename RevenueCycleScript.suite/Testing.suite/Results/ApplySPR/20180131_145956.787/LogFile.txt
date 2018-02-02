@@ -1,0 +1,10 @@
+﻿2018-01-31 14:59:56.793 -0600	START		Running ApplySPR.script
+2018-01-31 14:59:57.065 -0600	click	DropDownMenu	at (987, 162)	6	on_applyspr	ApplySPR.script
+2018-01-31 14:59:58.038 -0600	click	(TEXT:"Apply Self Pay Remittance")	at (878, 296)	7	on_applyspr	ApplySPR.script
+2018-01-31 14:59:59.685 -0600	click	Remittance	at (362, 226)	8	on_applyspr	ApplySPR.script
+2018-01-31 15:00:00.537 -0600	swipeleft	Remittance	Swiped left from (362, 226) to (0, 226)	9	on_applyspr	ApplySPR.script
+2018-01-31 15:00:01.291 -0600	typetext		39.00	10	on_applyspr	ApplySPR.script
+2018-01-31 15:00:02.099 -0600	click	PaymentAlias	at (461, 258)	11	on_applyspr	ApplySPR.script
+2018-01-31 15:00:02.821 -0600	typetext		[downArrow][returnKey]	12	on_applyspr	ApplySPR.script
+2018-01-31 15:00:13.271 -0600	EndTestCase		(Duration:"16.473", Errors:"1", Exceptions:"0", StartTime:"2018-01-31 14:59:56 -0600", Successes:"0", TestCase:"ApplySPR.script", Warnings:"0")
+2018-01-31 15:00:13.274 -0600	ABORTED		Execution Time 0:00:17 ApplySPR.script

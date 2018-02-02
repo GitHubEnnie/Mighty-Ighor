@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="EncountertoClaim.script" package="TransferTransaction.suite" timestamp="2018-01-30 14:58:55.841 -0600"
+ tests="1" successes="1" errors="0" time="2.974000">
+  <properties>
+   <property name="RunDate" value="2018-01-30 14:58:55.841 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="EncountertoClaim.script" assertions="1" successes="1" errors="0" time="2.966">
+  </testcase>
+ </testsuite>
+</testsuites>

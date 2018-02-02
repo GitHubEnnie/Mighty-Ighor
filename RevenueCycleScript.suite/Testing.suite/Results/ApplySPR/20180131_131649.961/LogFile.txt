@@ -1,0 +1,4 @@
+﻿2018-01-31 13:16:49.966 -0600	START		Running ApplySPR.script
+2018-01-31 13:16:50.187 -0600	click	DropDownMenu	at (987, 162)	1	on_applyspr	ApplySPR.script
+2018-01-31 13:17:11.250 -0600	EndTestCase		(Duration:"21.278", Errors:"1", Exceptions:"0", StartTime:"2018-01-31 13:16:49 -0600", Successes:"0", TestCase:"ApplySPR.script", Warnings:"0")
+2018-01-31 13:17:11.280 -0600	ABORTED		Execution Time 0:00:22 ApplySPR.script

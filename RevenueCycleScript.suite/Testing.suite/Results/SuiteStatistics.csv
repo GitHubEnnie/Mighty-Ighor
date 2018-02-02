@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+EncountertoEncounter,Success,13,1,2018-01-30 14:49:08 -0600,2018-01-31 10:39:33 -0600,0:00:00
+ApplySPR,Success,16,3,2018-01-31 10:46:55 -0600,2018-02-01 09:57:00 -0600,0:00:00
+ApplyApRefund,Success,2,0,2018-02-02 12:47:27 -0600,2018-02-02 12:48:31 -0600,0:00:00

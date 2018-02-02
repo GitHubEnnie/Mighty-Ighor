@@ -1,0 +1,49 @@
+﻿to takeScreenshot  name
+	RefreshScreen
+	wait 5
+	CaptureScreen (Name: name)
+	logsuccess "Screenshot " & name &".png Taken"
+end takeScreenshot
+
+put "S2000" into name1
+to VerifyPaymentPosted name1
+	if imagefound (name1)
+		LogSuccess "Payment is Posted Successfully"
+	else
+		LogError "Payment is not posted Successfully"
+	end if
+end VerifyPaymentPosted
+
+
+put "5" into pic
+put "2" into a
+to handle increaseSize pic
+	add pic to a
+end increaseSize
+log a
+
+to greetTheUser
+
+	put "Welcome to SenseTalk. Happy scripting!"
+	
+end greetTheUser
+
+run greetTheUser
+
+on swapValues a,b
+
+	put a into temp
+	
+	put b into a
+	
+	put temp into b
+	
+end swapValues
+
+put (2,4,5,6) into numbers
+log item 1 of numbers
+put the first item of numbers into a
+put the second item of numbers into b
+add a to b
+log b
+log time& " " & date
