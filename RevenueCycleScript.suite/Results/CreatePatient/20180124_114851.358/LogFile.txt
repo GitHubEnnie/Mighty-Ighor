@@ -1,6 +1,0 @@
-﻿2018-01-24 11:48:51.360 -0600	START		Running CreatePatient.script
-2018-01-24 11:48:51.593 -0600	click	SearchBar2	at (32, 49)	15	on_createpatient	CreatePatient.script
-2018-01-24 11:48:52.383 -0600	typetext		Cerner[returnKey]	16	on_createpatient	CreatePatient.script
-2018-01-24 11:49:02.955 -0600	Exception	AddPatient	Unable To Find Any Image On Screen "AddPatient" within 4.00 seconds	17	on_createpatient	CreatePatient.script
-2018-01-24 11:49:03.013 -0600	EndTestCase		(Duration:"11.64", Errors:"1", Exceptions:"1", StartTime:"2018-01-24 11:48:51 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
-2018-01-24 11:49:03.130 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "AddPatient" within 4.00 seconds -- Execution Time 0:00:12 CreatePatient.script

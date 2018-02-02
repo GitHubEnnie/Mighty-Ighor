@@ -1,4 +1,0 @@
-﻿2017-12-18 12:26:41.362 -0600	START		Running CreateEncounter.script
-2017-12-18 12:26:49.018 -0600	Exception	NewEncounter	No Image Found On Screen: "NewEncounter"	10	on_createencounter	CreateEncounter.script
-2017-12-18 12:26:49.107 -0600	EndTestCase		(Duration:"7.745", Errors:"1", Exceptions:"1", StartTime:"2017-12-18 12:26:41 -0600", Successes:"0", TestCase:"CreateEncounter.script", Warnings:"0")
-2017-12-18 12:26:49.107 -0600	ABORTED		Execution Time 0:00:08 CreateEncounter.script
