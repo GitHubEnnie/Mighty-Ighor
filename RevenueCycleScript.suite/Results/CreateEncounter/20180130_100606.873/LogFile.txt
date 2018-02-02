@@ -1,0 +1,6 @@
+﻿2018-01-30 10:06:06.873 -0600	START		Running CreateEncounter.script
+2018-01-30 10:06:07.078 -0600	click	NewEncounter	at (377, 56)	10	on_createencounter	CreateEncounter.script
+2018-01-30 10:06:08.268 -0600	imagefound	AddEncounter	Unable to Find Image AddEncounter within 1.00 seconds	11	on_createencounter	CreateEncounter.script
+2018-01-30 10:06:42.946 -0600	Exception	EncounterTab	No Image Found On Screen: "EncounterTab"	14	on_createencounter	CreateEncounter.script
+2018-01-30 10:06:43.146 -0600	EndTestCase		(Duration:"36.273", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 10:06:06 -0600", Successes:"0", TestCase:"CreateEncounter.script", Warnings:"0")
+2018-01-30 10:06:43.146 -0600	ABORTED		Execution Time 0:00:37 CreateEncounter.script

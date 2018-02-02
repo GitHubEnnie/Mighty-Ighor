@@ -1,0 +1,8 @@
+﻿2018-01-30 10:05:03.638 -0600	START		Running CreatePatient.script
+2018-01-30 10:05:03.848 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
+2018-01-30 10:05:04.699 -0600	typetext		Enitan[returnKey]	16	on_createpatient	CreatePatient.script
+2018-01-30 10:05:05.715 -0600	waitfor	AddPatient	found at (345, 134)	17	on_createpatient	CreatePatient.script
+2018-01-30 10:05:05.927 -0600	click	(TEXT:"Add")	at (345, 134)	18	on_createpatient	CreatePatient.script
+2018-01-30 10:05:16.243 -0600	Exception	FacilityBox	No Image Found On Screen: "FacilityBox"	22	on_createpatient	CreatePatient.script
+2018-01-30 10:05:16.440 -0600	EndTestCase		(Duration:"12.792", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 10:05:03 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-01-30 10:05:16.657 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "FacilityBox" -- Execution Time 0:00:13 CreatePatient.script

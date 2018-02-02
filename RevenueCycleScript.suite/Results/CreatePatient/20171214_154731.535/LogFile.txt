@@ -1,0 +1,21 @@
+﻿2017-12-14 15:47:31.545 -0600	START		Running CreatePatient.script
+2017-12-14 15:47:31.755 -0600	click	SearchBar2	at (32, 49)	15	on_createpatient	CreatePatient.script
+2017-12-14 15:47:32.630 -0600	typetext		Ojodes1[returnKey]	16	on_createpatient	CreatePatient.script
+2017-12-14 15:47:33.609 -0600	waitfor	AddPatient	found at (345, 134)	17	on_createpatient	CreatePatient.script
+2017-12-14 15:47:33.789 -0600	click	(TEXT:"Add")	at (345, 134)	18	on_createpatient	CreatePatient.script
+2017-12-14 15:47:36.887 -0600	click	FacilityBox	at (78, 136)	22	on_createpatient	CreatePatient.script
+2017-12-14 15:47:37.738 -0600	typetext		Profit[returnKey]	23	on_createpatient	CreatePatient.script
+2017-12-14 15:47:39.294 -0600	doubleclick	(TEXT:"Profit Auto Facility")	at (323, 235)	24	on_createpatient	CreatePatient.script
+2017-12-14 15:47:40.076 -0600	click	FirstNameBox	at (328, 198)	27	on_createpatient	CreatePatient.script
+2017-12-14 15:47:40.820 -0600	typetext		Mary	28	on_createpatient	CreatePatient.script
+2017-12-14 15:47:41.657 -0600	click	Sex	at (221, 267)	31	on_createpatient	CreatePatient.script
+2017-12-14 15:47:43.831 -0600	click	(TEXT:"Female")	at (65, 288)	32	on_createpatient	CreatePatient.script
+2017-12-14 15:47:44.635 -0600	click	DateofBirth	at (267, 267)	35	on_createpatient	CreatePatient.script
+2017-12-14 15:47:45.560 -0600	typetext		01/01/1991[tab]	36	on_createpatient	CreatePatient.script
+2017-12-14 15:47:45.580 -0600	waitfor	AddPatient	found at (80, 583)	39	on_createpatient	CreatePatient.script
+2017-12-14 15:47:46.365 -0600	click	AddPatient	at (80, 583)	40	on_createpatient	CreatePatient.script
+2017-12-14 15:47:47.539 -0600	click	OKButton	at (881, 629)	42	on_createpatient	CreatePatient.script
+2017-12-14 15:47:48.711 -0600	click	OKButton	at (881, 692)	46	on_createpatient	CreatePatient.script
+2017-12-14 15:47:48.711 -0600	imagefound	ErrorMessage	found at (955, 117)	48	on_createpatient	CreatePatient.script
+2017-12-14 15:47:58.478 -0600	EndTestCase		(Duration:"26.933", Errors:"1", Exceptions:"0", StartTime:"2017-12-14 15:47:31 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2017-12-14 15:47:58.478 -0600	ABORTED		Execution Time 0:00:27 CreatePatient.script

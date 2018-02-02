@@ -1,0 +1,4 @@
+﻿2018-01-30 12:53:54.918 -0600	START		Running Test.script
+2018-01-30 12:54:00.027 -0600	Exception		Searching For Image: OCR Error: Operation was aborted	3	on_test	Test.script
+2018-01-30 12:54:00.400 -0600	EndTestCase		(Duration:"5.482", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 12:53:54 -0600", Successes:"0", TestCase:"Test.script", Warnings:"0")
+2018-01-30 12:54:00.400 -0600	ABORTED		Execution Time 0:00:06 Test.script

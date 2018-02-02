@@ -1,0 +1,19 @@
+﻿2018-01-30 11:20:08.994 -0600	START		Running CreatePatient.script
+2018-01-30 11:20:09.315 -0600	click	SearchBar2	at (32, 53)	16	on_createpatient	CreatePatient.script
+2018-01-30 11:20:10.116 -0600	typetext		AutoMate[returnKey]	17	on_createpatient	CreatePatient.script
+2018-01-30 11:20:11.144 -0600	waitfor	AddButton	found at (345, 106)	18	on_createpatient	CreatePatient.script
+2018-01-30 11:20:11.484 -0600	click	(TEXT:"Add")	at (345, 106)	19	on_createpatient	CreatePatient.script
+2018-01-30 11:20:14.604 -0600	click	FacilityBox	at (121, 118)	23	on_createpatient	CreatePatient.script
+2018-01-30 11:20:15.567 -0600	typetext		A-team Both[returnKey]	24	on_createpatient	CreatePatient.script
+2018-01-30 11:20:17.605 -0600	imagefound	FacilitySearch	Unable to Find Image FacilitySearch within 2.00 seconds	25	on_createpatient	CreatePatient.script
+2018-01-30 11:20:17.737 -0600	click	FirstNameBox	at (328, 198)	31	on_createpatient	CreatePatient.script
+2018-01-30 11:20:18.534 -0600	typetext		Mary	32	on_createpatient	CreatePatient.script
+2018-01-30 11:20:19.377 -0600	click	Sex	at (221, 310)	35	on_createpatient	CreatePatient.script
+2018-01-30 11:20:22.580 -0600	click	(TEXT:"Male")	at (71, 331)	36	on_createpatient	CreatePatient.script
+2018-01-30 11:20:23.437 -0600	click	DateofBirth	at (267, 310)	39	on_createpatient	CreatePatient.script
+2018-01-30 11:20:24.344 -0600	typetext		01/01/1991[tab]	40	on_createpatient	CreatePatient.script
+2018-01-30 11:20:25.145 -0600	click	AddGuarantor	at (111, 76)	42	on_createpatient	CreatePatient.script
+2018-01-30 11:20:25.938 -0600	click	AddButton	at (57, 122)	43	on_createpatient	CreatePatient.script
+2018-01-30 11:20:27.156 -0600	click	OKButton	at (881, 692)	45	on_createpatient	CreatePatient.script
+2018-01-30 11:20:27.443 -0600	EndTestCase		(Duration:"18.429", Errors:"0", Exceptions:"0", StartTime:"2018-01-30 11:20:09 -0600", Successes:"1", TestCase:"CreatePatient.script", Warnings:"0")
+2018-01-30 11:20:27.496 -0600	SUCCESS		Execution Time 0:00:19 CreatePatient.script

@@ -1,0 +1,25 @@
+﻿2017-12-18 12:27:06.333 -0600	START		Running CreatePatient.script
+2017-12-18 12:27:06.598 -0600	click	SearchBar2	at (32, 49)	15	on_createpatient	CreatePatient.script
+2017-12-18 12:27:07.426 -0600	typetext		Olodo[returnKey]	16	on_createpatient	CreatePatient.script
+2017-12-18 12:27:10.526 -0600	waitfor	AddPatient	found at (345, 106)	17	on_createpatient	CreatePatient.script
+2017-12-18 12:27:10.846 -0600	click	(TEXT:"Add")	at (345, 106)	18	on_createpatient	CreatePatient.script
+2017-12-18 12:27:16.184 -0600	click	FacilityBox	at (78, 136)	22	on_createpatient	CreatePatient.script
+2017-12-18 12:27:17.005 -0600	typetext		Profit[returnKey]	23	on_createpatient	CreatePatient.script
+2017-12-18 12:27:19.856 -0600	doubleclick	(TEXT:"Profit Auto Facility")	at (323, 235)	24	on_createpatient	CreatePatient.script
+2017-12-18 12:27:20.669 -0600	click	FirstNameBox	at (328, 198)	27	on_createpatient	CreatePatient.script
+2017-12-18 12:27:21.464 -0600	typetext		Mary	28	on_createpatient	CreatePatient.script
+2017-12-18 12:27:22.288 -0600	click	Sex	at (221, 267)	31	on_createpatient	CreatePatient.script
+2017-12-18 12:27:25.171 -0600	click	(TEXT:"Female")	at (65, 288)	32	on_createpatient	CreatePatient.script
+2017-12-18 12:27:25.982 -0600	click	DateofBirth	at (267, 267)	35	on_createpatient	CreatePatient.script
+2017-12-18 12:27:26.890 -0600	typetext		01/01/1991[tab]	36	on_createpatient	CreatePatient.script
+2017-12-18 12:27:26.920 -0600	waitfor	AddPatient	found at (80, 583)	39	on_createpatient	CreatePatient.script
+2017-12-18 12:27:27.682 -0600	click	AddPatient	at (80, 583)	40	on_createpatient	CreatePatient.script
+2017-12-18 12:27:28.923 -0600	click	OKButton	at (881, 692)	42	on_createpatient	CreatePatient.script
+2017-12-18 12:27:30.160 -0600	click	OKButton	at (881, 629)	46	on_createpatient	CreatePatient.script
+2017-12-18 12:27:30.170 -0600	imagefound	ErrorMessage	found at (955, 117)	48	on_createpatient	CreatePatient.script
+2017-12-18 12:27:32.420 -0600	click	(TEXT:"OK")	at (712, 350)	49	on_createpatient	CreatePatient.script
+2017-12-18 12:27:33.268 -0600	click	AddInsurance	at (72, 370)	55	on_createpatient	CreatePatient.script
+2017-12-18 12:27:34.426 -0600	click	Insurance	at (95, 372)	57	on_createpatient	CreatePatient.script
+2017-12-18 12:28:06.728 -0600	Exception	SearchforHealthPlan	No Image Found On Screen: "SearchforHealthPlan"	58	on_createpatient	CreatePatient.script
+2017-12-18 12:28:06.803 -0600	EndTestCase		(Duration:"60.465", Errors:"1", Exceptions:"1", StartTime:"2017-12-18 12:27:06 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2017-12-18 12:28:06.807 -0600	ABORTED		Execution Time 0:01:00 CreatePatient.script

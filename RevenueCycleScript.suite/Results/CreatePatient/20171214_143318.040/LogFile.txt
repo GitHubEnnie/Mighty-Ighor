@@ -1,0 +1,33 @@
+﻿2017-12-14 14:33:18.050 -0600	START		Running CreatePatient.script
+2017-12-14 14:33:18.302 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
+2017-12-14 14:33:19.154 -0600	typetext		Ojodes[returnKey]	16	on_createpatient	CreatePatient.script
+2017-12-14 14:33:20.440 -0600	waitfor	AddPatient	found at (345, 134)	17	on_createpatient	CreatePatient.script
+2017-12-14 14:33:20.620 -0600	click	(TEXT:"Add")	at (345, 134)	18	on_createpatient	CreatePatient.script
+2017-12-14 14:33:23.710 -0600	click	FacilityBox	at (78, 136)	22	on_createpatient	CreatePatient.script
+2017-12-14 14:33:24.560 -0600	typetext		Profit[returnKey]	23	on_createpatient	CreatePatient.script
+2017-12-14 14:33:26.030 -0600	doubleclick	(TEXT:"Profit Auto Facility")	at (323, 235)	24	on_createpatient	CreatePatient.script
+2017-12-14 14:33:26.841 -0600	click	FirstNameBox	at (328, 198)	27	on_createpatient	CreatePatient.script
+2017-12-14 14:33:27.640 -0600	typetext		Mary	28	on_createpatient	CreatePatient.script
+2017-12-14 14:33:28.453 -0600	click	Sex	at (221, 267)	31	on_createpatient	CreatePatient.script
+2017-12-14 14:33:30.730 -0600	click	(TEXT:"Female")	at (65, 288)	32	on_createpatient	CreatePatient.script
+2017-12-14 14:33:31.530 -0600	click	DateofBirth	at (267, 267)	35	on_createpatient	CreatePatient.script
+2017-12-14 14:33:32.446 -0600	typetext		01/01/1991[tab]	36	on_createpatient	CreatePatient.script
+2017-12-14 14:33:32.466 -0600	waitfor	AddPatient	found at (80, 583)	39	on_createpatient	CreatePatient.script
+2017-12-14 14:33:33.260 -0600	click	AddPatient	at (80, 583)	40	on_createpatient	CreatePatient.script
+2017-12-14 14:33:34.480 -0600	click	OKButton	at (881, 692)	42	on_createpatient	CreatePatient.script
+2017-12-14 14:33:35.650 -0600	click	OKButton	at (881, 629)	47	on_createpatient	CreatePatient.script
+2017-12-14 14:33:35.660 -0600	imagefound	ErrorMessage	found at (955, 117)	49	on_createpatient	CreatePatient.script
+2017-12-14 14:33:37.510 -0600	click	(TEXT:"OK")	at (712, 350)	50	on_createpatient	CreatePatient.script
+2017-12-14 14:33:38.322 -0600	click	AddInsurance	at (72, 370)	54	on_createpatient	CreatePatient.script
+2017-12-14 14:33:39.421 -0600	click	Insurance	at (124, 54)	56	on_createpatient	CreatePatient.script
+2017-12-14 14:33:40.220 -0600	click	SearchforHealthPlan	at (304, 115)	57	on_createpatient	CreatePatient.script
+2017-12-14 14:33:41.433 -0600	doubleclick	AETNA	at (100, 268)	58	on_createpatient	CreatePatient.script
+2017-12-14 14:33:42.278 -0600	doubleclick	AETNA_1	at (383, 284)	59	on_createpatient	CreatePatient.script
+2017-12-14 14:33:43.090 -0600	click	BeqinDate	at (59, 373)	60	on_createpatient	CreatePatient.script
+2017-12-14 14:33:44.010 -0600	typetext		01/01/2016[tab]	61	on_createpatient	CreatePatient.script
+2017-12-14 14:33:44.870 -0600	click	OKButton	at (881, 664)	63	on_createpatient	CreatePatient.script
+2017-12-14 14:33:46.070 -0600	click	OKButton	at (881, 629)	65	on_createpatient	CreatePatient.script
+2017-12-14 14:33:46.080 -0600	imagefound	ErrorMessage	found at (955, 117)	67	on_createpatient	CreatePatient.script
+2017-12-14 14:33:48.285 -0600	click	(TEXT:"Cancel")	at (784, 427)	68	on_createpatient	CreatePatient.script
+2017-12-14 14:33:48.446 -0600	EndTestCase		(Duration:"30.396", Errors:"0", Exceptions:"0", StartTime:"2017-12-14 14:33:18 -0600", Successes:"1", TestCase:"CreatePatient.script", Warnings:"0")
+2017-12-14 14:33:48.486 -0600	SUCCESS		Execution Time 0:00:30 CreatePatient.script

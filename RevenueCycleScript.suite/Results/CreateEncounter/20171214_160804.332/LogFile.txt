@@ -1,0 +1,10 @@
+﻿2017-12-14 16:08:04.332 -0600	START		Running CreateEncounter.script
+2017-12-14 16:08:04.512 -0600	click	NewEncounter	at (592, 56)	9	on_createencounter	CreateEncounter.script
+2017-12-14 16:08:04.522 -0600	imagefound	AddEncounter	found at (935, 174)	10	on_createencounter	CreateEncounter.script
+2017-12-14 16:08:05.293 -0600	click	AddEncounter	at (935, 174)	11	on_createencounter	CreateEncounter.script
+2017-12-14 16:08:07.404 -0600	click	FacilityBox	at (121, 177)	19	on_createencounter	CreateEncounter.script
+2017-12-14 16:08:08.257 -0600	typetext		Profit[returnKey]	20	on_createencounter	CreateEncounter.script
+2017-12-14 16:08:09.957 -0600	doubleclick	(TEXT:"Profit Auto Facility")	at (323, 235)	21	on_createencounter	CreateEncounter.script
+2017-12-14 16:08:10.757 -0600	click	Insurance	at (104, 135)	24	on_createencounter	CreateEncounter.script
+2017-12-14 16:08:10.967 -0600	EndTestCase		(Duration:"6.635", Errors:"1", Exceptions:"0", StartTime:"2017-12-14 16:08:04 -0600", Successes:"0", TestCase:"CreateEncounter.script", Warnings:"0")
+2017-12-14 16:08:11.096 -0600	FAILURE	Screen_Error.png	STInvalidBoolean Value 'ExistInsurance' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:06 CreateEncounter.script

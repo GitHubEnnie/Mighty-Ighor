@@ -1,0 +1,18 @@
+﻿2018-01-30 10:13:37.286 -0600	START		Running CreatePatient.script
+2018-01-30 10:13:37.470 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
+2018-01-30 10:13:38.349 -0600	typetext		Enitemi[returnKey]	16	on_createpatient	CreatePatient.script
+2018-01-30 10:13:39.350 -0600	waitfor	AddPatient	found at (345, 106)	17	on_createpatient	CreatePatient.script
+2018-01-30 10:13:39.766 -0600	click	(TEXT:"Add")	at (345, 106)	18	on_createpatient	CreatePatient.script
+2018-01-30 10:13:42.870 -0600	click	FacilityBox	at (121, 118)	22	on_createpatient	CreatePatient.script
+2018-01-30 10:13:43.711 -0600	typetext		Profit[returnKey]	23	on_createpatient	CreatePatient.script
+2018-01-30 10:13:45.317 -0600	doubleclick	(TEXT:"Profit Auto Facility")	at (323, 235)	24	on_createpatient	CreatePatient.script
+2018-01-30 10:13:46.124 -0600	click	FirstNameBox	at (328, 198)	27	on_createpatient	CreatePatient.script
+2018-01-30 10:13:46.898 -0600	typetext		Mary	28	on_createpatient	CreatePatient.script
+2018-01-30 10:13:47.752 -0600	click	Sex	at (221, 310)	31	on_createpatient	CreatePatient.script
+2018-01-30 10:13:50.158 -0600	click	(TEXT:"Female")	at (65, 331)	32	on_createpatient	CreatePatient.script
+2018-01-30 10:13:50.971 -0600	click	DateofBirth	at (267, 310)	35	on_createpatient	CreatePatient.script
+2018-01-30 10:13:51.897 -0600	typetext		01/01/1991[tab]	36	on_createpatient	CreatePatient.script
+2018-01-30 10:13:51.907 -0600	imagefound	ErrorMessage	found at (955, 117)	49	on_createpatient	CreatePatient.script
+2018-01-30 10:14:29.152 -0600	Exception	(TEXT:"OK")	No Text Found On Screen: "(TEXT:"OK")"	50	on_createpatient	CreatePatient.script
+2018-01-30 10:14:29.339 -0600	EndTestCase		(Duration:"52.043", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 10:13:37 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-01-30 10:14:29.349 -0600	ABORTED		Execution Time 0:00:52 CreatePatient.script

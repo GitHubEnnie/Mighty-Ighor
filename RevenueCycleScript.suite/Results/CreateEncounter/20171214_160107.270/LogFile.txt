@@ -1,0 +1,9 @@
+﻿2017-12-14 16:01:07.270 -0600	START		Running CreateEncounter.script
+2017-12-14 16:01:07.463 -0600	click	NewEncounter	at (592, 56)	9	on_createencounter	CreateEncounter.script
+2017-12-14 16:01:08.504 -0600	imagefound	AddEncounter	Unable to Find Image AddEncounter within 1.00 seconds	10	on_createencounter	CreateEncounter.script
+2017-12-14 16:01:08.604 -0600	click	EncounterTab	at (113, 175)	13	on_createencounter	CreateEncounter.script
+2017-12-14 16:01:09.384 -0600	click	AddEncounter	at (935, 174)	14	on_createencounter	CreateEncounter.script
+2017-12-14 16:01:10.185 -0600	click	FacilityBox	at (177, 281)	18	on_createencounter	CreateEncounter.script
+2017-12-14 16:01:11.026 -0600	typetext		Profit[returnKey]	19	on_createencounter	CreateEncounter.script
+2017-12-14 16:01:19.217 -0600	EndTestCase		(Duration:"11.937", Errors:"1", Exceptions:"0", StartTime:"2017-12-14 16:01:07 -0600", Successes:"0", TestCase:"CreateEncounter.script", Warnings:"0")
+2017-12-14 16:01:19.217 -0600	ABORTED		Execution Time 0:00:12 CreateEncounter.script

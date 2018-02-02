@@ -1,0 +1,20 @@
+﻿2017-12-14 13:50:01.485 -0600	START		Running CreatePatient.script
+2017-12-14 13:50:01.681 -0600	click	SearchBar2	at (32, 49)	15	on_createpatient	CreatePatient.script
+2017-12-14 13:50:02.525 -0600	typetext		Ojobas[returnKey]	16	on_createpatient	CreatePatient.script
+2017-12-14 13:50:04.123 -0600	waitfor	AddPatient	found at (345, 134)	17	on_createpatient	CreatePatient.script
+2017-12-14 13:50:04.306 -0600	click	(TEXT:"Add")	at (345, 134)	18	on_createpatient	CreatePatient.script
+2017-12-14 13:50:05.543 -0600	click	FacilityBox	at (78, 136)	21	on_createpatient	CreatePatient.script
+2017-12-14 13:50:06.393 -0600	typetext		Profit[returnKey]	22	on_createpatient	CreatePatient.script
+2017-12-14 13:50:07.876 -0600	doubleclick	(TEXT:"Profit Auto Facility")	at (323, 235)	23	on_createpatient	CreatePatient.script
+2017-12-14 13:50:08.683 -0600	click	FirstNameBox	at (328, 198)	26	on_createpatient	CreatePatient.script
+2017-12-14 13:50:09.473 -0600	typetext		Mary	27	on_createpatient	CreatePatient.script
+2017-12-14 13:50:10.283 -0600	click	Sex	at (221, 267)	30	on_createpatient	CreatePatient.script
+2017-12-14 13:50:12.413 -0600	click	(TEXT:"Female")	at (65, 288)	31	on_createpatient	CreatePatient.script
+2017-12-14 13:50:13.215 -0600	click	DateofBirth	at (267, 267)	34	on_createpatient	CreatePatient.script
+2017-12-14 13:50:14.143 -0600	typetext		01/01/1991[tab]	35	on_createpatient	CreatePatient.script
+2017-12-14 13:50:14.163 -0600	waitfor	AddPatient	found at (80, 583)	38	on_createpatient	CreatePatient.script
+2017-12-14 13:50:14.942 -0600	click	AddPatient	at (80, 583)	39	on_createpatient	CreatePatient.script
+2017-12-14 13:50:15.818 -0600	click	OKButton	at (881, 692)	40	on_createpatient	CreatePatient.script
+2017-12-14 13:50:16.983 -0600	click	OKButton	at (881, 629)	44	on_createpatient	CreatePatient.script
+2017-12-14 13:50:17.133 -0600	EndTestCase		(Duration:"15.636", Errors:"0", Exceptions:"0", StartTime:"2017-12-14 13:50:01 -0600", Successes:"1", TestCase:"CreatePatient.script", Warnings:"0")
+2017-12-14 13:50:17.153 -0600	SUCCESS		Execution Time 0:00:16 CreatePatient.script

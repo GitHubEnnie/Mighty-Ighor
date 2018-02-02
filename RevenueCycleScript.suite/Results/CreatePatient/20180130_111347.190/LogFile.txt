@@ -1,0 +1,15 @@
+﻿2018-01-30 11:13:47.200 -0600	START		Running CreatePatient.script
+2018-01-30 11:13:47.450 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
+2018-01-30 11:13:48.279 -0600	typetext		AutoMate[returnKey]	16	on_createpatient	CreatePatient.script
+2018-01-30 11:13:49.333 -0600	waitfor	AddButton	found at (345, 106)	17	on_createpatient	CreatePatient.script
+2018-01-30 11:13:49.641 -0600	click	(TEXT:"Add")	at (345, 106)	18	on_createpatient	CreatePatient.script
+2018-01-30 11:13:52.731 -0600	click	FacilityBox	at (121, 118)	22	on_createpatient	CreatePatient.script
+2018-01-30 11:13:53.845 -0600	typetext		Profit Auto Facility[returnKey]	23	on_createpatient	CreatePatient.script
+2018-01-30 11:13:54.302 -0600	imagefound	FacilitySearch	found at (294, 19)	24	on_createpatient	CreatePatient.script
+2018-01-30 11:13:54.852 -0600	doubleclick	(TEXT:"Profit Auto Facility")	at (323, 216)	25	on_createpatient	CreatePatient.script
+2018-01-30 11:13:55.696 -0600	click	FirstNameBox	at (328, 198)	30	on_createpatient	CreatePatient.script
+2018-01-30 11:13:56.495 -0600	typetext		Mary	31	on_createpatient	CreatePatient.script
+2018-01-30 11:13:57.338 -0600	click	Sex	at (221, 310)	34	on_createpatient	CreatePatient.script
+2018-01-30 11:13:59.922 -0600	Exception		Searching For Image: OCR Error: Operation was aborted	35	on_createpatient	CreatePatient.script
+2018-01-30 11:14:00.200 -0600	EndTestCase		(Duration:"12.998", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 11:13:47 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-01-30 11:14:00.203 -0600	ABORTED		Execution Time 0:00:13 CreatePatient.script

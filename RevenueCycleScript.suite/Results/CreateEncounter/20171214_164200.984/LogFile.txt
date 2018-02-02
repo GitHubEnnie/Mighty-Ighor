@@ -1,0 +1,8 @@
+﻿2017-12-14 16:42:00.994 -0600	START		Running CreateEncounter.script
+2017-12-14 16:42:01.175 -0600	click	NewEncounter	at (592, 56)	10	on_createencounter	CreateEncounter.script
+2017-12-14 16:42:01.185 -0600	imagefound	AddEncounter	found at (935, 174)	11	on_createencounter	CreateEncounter.script
+2017-12-14 16:42:01.967 -0600	click	AddEncounter	at (935, 174)	12	on_createencounter	CreateEncounter.script
+2017-12-14 16:42:04.082 -0600	click	FacilityBox	at (177, 281)	20	on_createencounter	CreateEncounter.script
+2017-12-14 16:42:04.937 -0600	typetext		Profit[returnKey]	21	on_createencounter	CreateEncounter.script
+2017-12-14 16:42:21.061 -0600	EndTestCase		(Duration:"20.067", Errors:"1", Exceptions:"0", StartTime:"2017-12-14 16:42:00 -0600", Successes:"0", TestCase:"CreateEncounter.script", Warnings:"0")
+2017-12-14 16:42:21.061 -0600	ABORTED		Execution Time 0:00:21 CreateEncounter.script

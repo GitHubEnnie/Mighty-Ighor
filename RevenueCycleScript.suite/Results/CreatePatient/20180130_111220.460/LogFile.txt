@@ -1,0 +1,20 @@
+﻿2018-01-30 11:12:20.461 -0600	START		Running CreatePatient.script
+2018-01-30 11:12:20.665 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
+2018-01-30 11:12:21.555 -0600	typetext		AutoMate[returnKey]	16	on_createpatient	CreatePatient.script
+2018-01-30 11:12:22.556 -0600	waitfor	AddButton	found at (345, 106)	17	on_createpatient	CreatePatient.script
+2018-01-30 11:12:22.777 -0600	click	(TEXT:"Add")	at (345, 106)	18	on_createpatient	CreatePatient.script
+2018-01-30 11:12:25.908 -0600	click	FacilityBox	at (121, 118)	22	on_createpatient	CreatePatient.script
+2018-01-30 11:12:26.752 -0600	typetext		Mo NonC[returnKey]	23	on_createpatient	CreatePatient.script
+2018-01-30 11:12:28.850 -0600	imagefound	FacilitySearch	Unable to Find Image FacilitySearch within 2.00 seconds	24	on_createpatient	CreatePatient.script
+2018-01-30 11:12:28.942 -0600	click	FirstNameBox	at (328, 198)	30	on_createpatient	CreatePatient.script
+2018-01-30 11:12:29.699 -0600	typetext		Mary	31	on_createpatient	CreatePatient.script
+2018-01-30 11:12:30.505 -0600	click	Sex	at (221, 310)	34	on_createpatient	CreatePatient.script
+2018-01-30 11:12:33.327 -0600	click	(TEXT:"Female")	at (65, 331)	35	on_createpatient	CreatePatient.script
+2018-01-30 11:12:34.149 -0600	click	DateofBirth	at (267, 310)	38	on_createpatient	CreatePatient.script
+2018-01-30 11:12:35.073 -0600	typetext		01/01/1991[tab]	39	on_createpatient	CreatePatient.script
+2018-01-30 11:12:35.846 -0600	click	AddGuarantor	at (111, 76)	41	on_createpatient	CreatePatient.script
+2018-01-30 11:12:36.659 -0600	click	AddButton	at (57, 122)	42	on_createpatient	CreatePatient.script
+2018-01-30 11:12:37.887 -0600	click	OKButton	at (881, 629)	44	on_createpatient	CreatePatient.script
+2018-01-30 11:12:38.783 -0600	click	OKButton	at (881, 692)	48	on_createpatient	CreatePatient.script
+2018-01-30 11:12:39.003 -0600	EndTestCase		(Duration:"18.527", Errors:"0", Exceptions:"0", StartTime:"2018-01-30 11:12:20 -0600", Successes:"1", TestCase:"CreatePatient.script", Warnings:"0")
+2018-01-30 11:12:39.084 -0600	SUCCESS		Execution Time 0:00:18 CreatePatient.script

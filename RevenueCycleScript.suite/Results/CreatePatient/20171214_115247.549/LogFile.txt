@@ -1,0 +1,5 @@
+﻿2017-12-14 11:52:47.559 -0600	START		Running CreatePatient.script
+2017-12-14 11:52:47.739 -0600	click	SearchBar2	at (32, 53)	11	on_createpatient	CreatePatient.script
+2017-12-14 11:52:48.591 -0600	typetext		Ojobas[returnKey]	12	on_createpatient	CreatePatient.script
+2017-12-14 11:52:48.711 -0600	EndTestCase		(Duration:"1.142", Errors:"0", Exceptions:"0", StartTime:"2017-12-14 11:52:47 -0600", Successes:"1", TestCase:"CreatePatient.script", Warnings:"0")
+2017-12-14 11:52:48.751 -0600	SUCCESS		Execution Time 0:00:01 CreatePatient.script

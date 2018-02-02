@@ -1,0 +1,6 @@
+﻿2018-01-30 13:01:16.504 -0600	START		Running Test.script
+2018-01-30 13:01:31.392 -0600	imagefound	(TEXT:"Profit Medical")	Unable to Find Image (TEXT:"Profit Medical") within 2.00 seconds	3	on_test	Test.script
+2018-01-30 13:01:31.411 -0600	typetext		[tab]	4	on_test	Test.script
+2018-01-30 13:01:46.370 -0600	Exception		Searching For Image: OCR Error: Operation was aborted	5	on_test	Test.script
+2018-01-30 13:01:47.035 -0600	EndTestCase		(Duration:"30.526", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 13:01:16 -0600", Successes:"0", TestCase:"Test.script", Warnings:"0")
+2018-01-30 13:01:47.038 -0600	ABORTED		Execution Time 0:00:31 Test.script

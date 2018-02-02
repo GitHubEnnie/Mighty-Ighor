@@ -1,0 +1,6 @@
+﻿2018-01-30 10:03:26.843 -0600	START		Running CreatePatient.script
+2018-01-30 10:03:27.116 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
+2018-01-30 10:03:27.941 -0600	typetext		Cerner[returnKey]	16	on_createpatient	CreatePatient.script
+2018-01-30 10:03:54.249 -0600	Exception	AddPatient	Unable To Find Any Image On Screen "AddPatient" within 4.00 seconds	17	on_createpatient	CreatePatient.script
+2018-01-30 10:03:54.427 -0600	EndTestCase		(Duration:"27.574", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 10:03:26 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-01-30 10:03:54.437 -0600	ABORTED		Execution Time 0:00:28 CreatePatient.script

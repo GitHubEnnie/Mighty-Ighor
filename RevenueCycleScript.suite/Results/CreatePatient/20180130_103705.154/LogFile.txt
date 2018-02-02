@@ -1,0 +1,6 @@
+﻿2018-01-30 10:37:05.164 -0600	START		Running CreatePatient.script
+2018-01-30 10:37:05.364 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
+2018-01-30 10:37:06.243 -0600	typetext		Enibumi[returnKey]	16	on_createpatient	CreatePatient.script
+2018-01-30 10:37:06.253 -0600	Exception	AddPatient	Could Not Open Image: AddPatient	17	on_createpatient	CreatePatient.script
+2018-01-30 10:37:06.423 -0600	EndTestCase		(Duration:"1.249", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 10:37:05 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-01-30 10:37:06.538 -0600	FAILURE	Screen_Error.png	File Not Found waitfor Error - Could Not Open Image: AddPatient -- Execution Time 0:00:01 CreatePatient.script
