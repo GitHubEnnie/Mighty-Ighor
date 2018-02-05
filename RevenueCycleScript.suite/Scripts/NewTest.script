@@ -2,3 +2,10 @@
 	put "Welcome to Eggplant Class"
 end greetTheUser
 
+
+Put 5 into b
+
+add 10 to b
+Log b
+
+
