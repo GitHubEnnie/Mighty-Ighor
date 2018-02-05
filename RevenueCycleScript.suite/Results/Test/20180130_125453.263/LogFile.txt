@@ -1,4 +1,0 @@
-﻿2018-01-30 12:54:53.273 -0600	START		Running Test.script
-2018-01-30 12:54:53.430 -0600	Exception	Profit Medical	Could Not Open Image: Profit Medical	3	on_test	Test.script
-2018-01-30 12:54:53.832 -0600	EndTestCase		(Duration:"0.559", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 12:54:53 -0600", Successes:"0", TestCase:"Test.script", Warnings:"0")
-2018-01-30 12:54:53.955 -0600	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: Profit Medical -- Execution Time 0:00:00 Test.script

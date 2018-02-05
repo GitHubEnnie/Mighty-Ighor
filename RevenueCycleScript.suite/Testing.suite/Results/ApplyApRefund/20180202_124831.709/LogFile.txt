@@ -1,0 +1,3 @@
+﻿2018-02-02 12:48:31.715 -0600	START		Running ApplyApRefund.script
+2018-02-02 12:48:31.785 -0600	EndTestCase		(Duration:"0.055", Errors:"0", Exceptions:"0", StartTime:"2018-02-02 12:48:31 -0600", Successes:"1", TestCase:"ApplyApRefund.script", Warnings:"0")
+2018-02-02 12:48:31.815 -0600	SUCCESS		Execution Time 0:00:00 ApplyApRefund.script

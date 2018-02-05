@@ -1,0 +1,15 @@
+﻿2018-01-30 16:16:39.991 -0600	START		Running EncountertoClaim.script
+2018-01-30 16:16:40.297 -0600	click	SelfPayTransactionsTab	at (603, 452)	20	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:41.094 -0600	click	FirstTransaction	at (119, 568)	21	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:41.805 -0600	typetext		[downArrow]	23	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:42.519 -0600	typetext		[downArrow]	23	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:43.231 -0600	typetext		[downArrow]	23	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:44.062 -0600	rightclick	SelectedTransaction	at (73, 625)	25	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:45.406 -0600	click	SelectTransferOption	at (125, 588)	26	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:46.675 -0600	click	SelectDestination	at (400, 108)	27	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:47.429 -0600	typetext		2541[returnKey]	29	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:51.377 -0600	click	(TEXT:"Mary, Ojo20")	at (328, 175)	31	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:52.948 -0600	click	OKButton	at (802, 692)	33	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:54.148 -0600	click	OKButton	at (609, 650)	35	on_encountertoclaim	EncountertoClaim.script
+2018-01-30 16:16:54.611 -0600	EndTestCase		(Duration:"14.614", Errors:"0", Exceptions:"0", StartTime:"2018-01-30 16:16:39 -0600", Successes:"1", TestCase:"EncountertoClaim.script", Warnings:"0")
+2018-01-30 16:16:54.654 -0600	SUCCESS		Execution Time 0:00:15 EncountertoClaim.script

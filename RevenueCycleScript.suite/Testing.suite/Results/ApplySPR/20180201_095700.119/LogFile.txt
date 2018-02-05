@@ -1,0 +1,23 @@
+﻿2018-02-01 09:57:00.127 -0600	START		Running ApplySPR.script
+2018-02-01 09:57:00.443 -0600	click	DropDownMenu	at (987, 162)	20	on_applyspr	ApplySPR.script
+2018-02-01 09:57:01.387 -0600	click	(TEXT:"Apply Self Pay Remittance")	at (878, 296)	21	on_applyspr	ApplySPR.script
+2018-02-01 09:57:02.223 -0600	imagefound	ViewCertificate	found at (464, 405)	22	on_applyspr	ApplySPR.script
+2018-02-01 09:57:02.454 -0600	click	ViewCertificate	at (464, 405)	24	on_applyspr	ApplySPR.script
+2018-02-01 09:57:03.410 -0600	click	ViewCertificate	at (429, 490)	24	on_applyspr	ApplySPR.script
+2018-02-01 09:57:05.672 -0600	click	Remittance	at (362, 226)	28	on_applyspr	ApplySPR.script
+2018-02-01 09:57:06.523 -0600	swipeleft	Remittance	Swiped left from (362, 226) to (0, 226)	29	on_applyspr	ApplySPR.script
+2018-02-01 09:57:07.268 -0600	typetext		1.00	30	on_applyspr	ApplySPR.script
+2018-02-01 09:57:08.070 -0600	click	PaymentAlias	at (461, 258)	31	on_applyspr	ApplySPR.script
+2018-02-01 09:57:08.792 -0600	typetext		[downArrow][returnKey]	32	on_applyspr	ApplySPR.script
+2018-02-01 09:57:09.588 -0600	click	AddButton	at (263, 469)	33	on_applyspr	ApplySPR.script
+2018-02-01 09:57:10.476 -0600	click	AmountTendered	at (317, 571)	35	on_applyspr	ApplySPR.script
+2018-02-01 09:57:11.228 -0600	typetext		1.00	36	on_applyspr	ApplySPR.script
+2018-02-01 09:57:12.083 -0600	click	MethodofPayment	at (459, 602)	37	on_applyspr	ApplySPR.script
+2018-02-01 09:57:13.258 -0600	click	(TEXT:"Money Order")	at (307, 581)	38	on_applyspr	ApplySPR.script
+2018-02-01 09:57:14.058 -0600	click	PaymentDate	at (269, 665)	39	on_applyspr	ApplySPR.script
+2018-02-01 09:57:14.868 -0600	typetext		01/02/2018	40	on_applyspr	ApplySPR.script
+2018-02-01 09:57:15.570 -0600	scrollwheeldown		moved 1	41	on_applyspr	ApplySPR.script
+2018-02-01 09:57:16.375 -0600	click	AddMoney	at (257, 643)	43	on_applyspr	ApplySPR.script
+2018-02-01 09:57:17.244 -0600	click	SubmitRemittance	at (818, 690)	44	on_applyspr	ApplySPR.script
+2018-02-01 09:57:17.789 -0600	EndTestCase		(Duration:"17.655", Errors:"0", Exceptions:"0", StartTime:"2018-02-01 09:57:00 -0600", Successes:"1", TestCase:"ApplySPR.script", Warnings:"0")
+2018-02-01 09:57:17.831 -0600	SUCCESS		Execution Time 0:00:17 ApplySPR.script

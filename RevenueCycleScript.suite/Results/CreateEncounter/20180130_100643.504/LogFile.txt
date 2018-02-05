@@ -1,4 +1,0 @@
-﻿2018-01-30 10:06:43.504 -0600	START		Running CreateEncounter.script
-2018-01-30 10:06:43.760 -0600	click	NewEncounter	at (592, 56)	10	on_createencounter	CreateEncounter.script
-2018-01-30 10:06:44.898 -0600	EndTestCase		(Duration:"1.394", Errors:"1", Exceptions:"0", StartTime:"2018-01-30 10:06:43 -0600", Successes:"0", TestCase:"CreateEncounter.script", Warnings:"0")
-2018-01-30 10:06:44.908 -0600	ABORTED		Execution Time 0:00:01 CreateEncounter.script

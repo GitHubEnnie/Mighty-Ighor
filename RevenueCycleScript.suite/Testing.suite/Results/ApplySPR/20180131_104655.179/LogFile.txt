@@ -1,0 +1,5 @@
+﻿2018-01-31 10:46:55.184 -0600	START		Running ApplySPR.script
+2018-01-31 10:46:55.435 -0600	click	DropDownMenu	at (987, 161)	1	on_applyspr	ApplySPR.script
+2018-01-31 10:47:12.847 -0600	click	(TEXT:"Apply Self Pay Remittance")	at (878, 296)	2	on_applyspr	ApplySPR.script
+2018-01-31 10:47:13.502 -0600	EndTestCase		(Duration:"18.313", Errors:"0", Exceptions:"0", StartTime:"2018-01-31 10:46:55 -0600", Successes:"1", TestCase:"ApplySPR.script", Warnings:"0")
+2018-01-31 10:47:13.540 -0600	SUCCESS		Execution Time 0:00:18 ApplySPR.script

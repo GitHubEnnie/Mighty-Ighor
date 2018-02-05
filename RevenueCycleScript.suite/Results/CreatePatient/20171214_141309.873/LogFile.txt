@@ -1,9 +1,0 @@
-﻿2017-12-14 14:13:09.873 -0600	START		Running CreatePatient.script
-2017-12-14 14:13:10.083 -0600	click	SearchBar2	at (32, 53)	15	on_createpatient	CreatePatient.script
-2017-12-14 14:13:10.911 -0600	typetext		Ojobas[returnKey]	16	on_createpatient	CreatePatient.script
-2017-12-14 14:13:13.571 -0600	waitfor	AddPatient	found at (345, 134)	17	on_createpatient	CreatePatient.script
-2017-12-14 14:13:13.781 -0600	click	(TEXT:"Add")	at (345, 134)	18	on_createpatient	CreatePatient.script
-2017-12-14 14:13:14.581 -0600	click	FacilityBox	at (170, 261)	21	on_createpatient	CreatePatient.script
-2017-12-14 14:13:15.421 -0600	typetext		Profit[returnKey]	22	on_createpatient	CreatePatient.script
-2017-12-14 14:13:33.090 -0600	EndTestCase		(Duration:"23.197", Errors:"1", Exceptions:"0", StartTime:"2017-12-14 14:13:09 -0600", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
-2017-12-14 14:13:33.090 -0600	ABORTED		Execution Time 0:00:24 CreatePatient.script

@@ -1,0 +1,7 @@
+﻿2018-01-31 13:18:23.136 -0600	START		Running ApplySPR.script
+2018-01-31 13:18:23.375 -0600	click	DropDownMenu	at (987, 162)	1	on_applyspr	ApplySPR.script
+2018-01-31 13:18:23.379 -0600	set		SEARCHRECTANGLE = 783,214,952,306	2	on_applyspr	ApplySPR.script
+2018-01-31 13:18:24.268 -0600	click	(TEXT:"Apply Self Pay Remittance")	at (878, 296)	3	on_applyspr	ApplySPR.script
+2018-01-31 13:18:45.372 -0600	Exception	ViewCertificate	No Image Found On Screen: "ViewCertificate"	5	on_applyspr	ApplySPR.script
+2018-01-31 13:18:46.040 -0600	EndTestCase		(Duration:"22.899", Errors:"1", Exceptions:"1", StartTime:"2018-01-31 13:18:23 -0600", Successes:"0", TestCase:"ApplySPR.script", Warnings:"0")
+2018-01-31 13:18:46.043 -0600	ABORTED		Execution Time 0:00:23 ApplySPR.script

@@ -1,8 +1,0 @@
-﻿2018-01-30 10:59:44.782 -0600	START		Running CreateEncounter.script
-2018-01-30 10:59:45.016 -0600	click	NewEncounter	at (377, 56)	10	on_createencounter	CreateEncounter.script
-2018-01-30 10:59:45.819 -0600	click	EncounterTab	at (101, 176)	11	on_createencounter	CreateEncounter.script
-2018-01-30 10:59:45.829 -0600	imagefound	AddEncounter	found at (935, 174)	12	on_createencounter	CreateEncounter.script
-2018-01-30 10:59:46.626 -0600	click	AddEncounter	at (935, 174)	14	on_createencounter	CreateEncounter.script
-2018-01-30 10:59:58.301 -0600	Exception	FacilityBox	No Image Found On Screen: "FacilityBox"	22	on_createencounter	CreateEncounter.script
-2018-01-30 10:59:58.595 -0600	EndTestCase		(Duration:"13.813", Errors:"1", Exceptions:"1", StartTime:"2018-01-30 10:59:44 -0600", Successes:"0", TestCase:"CreateEncounter.script", Warnings:"0")
-2018-01-30 10:59:58.595 -0600	ABORTED		Execution Time 0:00:14 CreateEncounter.script

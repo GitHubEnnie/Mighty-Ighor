@@ -1,0 +1,4 @@
+﻿2018-01-31 10:26:42.253 -0600	START		Running EncountertoClaim.script
+2018-01-31 10:26:42.412 -0600	Exception	SelectedTransaction1	Could Not Open Image: SelectedTransaction1	15	on_encountertoclaim	EncountertoClaim.script
+2018-01-31 10:26:42.970 -0600	EndTestCase		(Duration:"0.711", Errors:"1", Exceptions:"1", StartTime:"2018-01-31 10:26:42 -0600", Successes:"0", TestCase:"EncountertoClaim.script", Warnings:"0")
+2018-01-31 10:26:43.481 -0600	FAILURE	Screen_Error.png	File Not Found rightclick Error - Could Not Open Image: SelectedTransaction1 -- Execution Time 0:00:00 EncountertoClaim.script
