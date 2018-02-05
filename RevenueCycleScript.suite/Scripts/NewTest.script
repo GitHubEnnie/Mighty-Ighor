@@ -1,0 +1,4 @@
+﻿to greetTheUser
+	put "Welcome to Eggplant Class"
+end greetTheUser
+
