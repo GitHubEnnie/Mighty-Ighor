@@ -2,7 +2,7 @@
 	put "Welcome to Eggplant Class"
 end greetTheUser
 
-
+//Adding a comment
 Put 5 into b
 
 add 10 to b
