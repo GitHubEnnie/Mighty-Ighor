@@ -1,0 +1,4 @@
+﻿2018-02-09 14:39:36.663 -0600	START		Running Questions.script
+2018-02-09 14:39:39.333 -0600	Log		Linda	3	on_answerquestion1	NewTest1.script
+2018-02-09 14:39:40.102 -0600	EndTestCase		(Duration:"3.428", Errors:"0", Exceptions:"0", StartTime:"2018-02-09 14:39:36 -0600", Successes:"1", TestCase:"Questions.script", Warnings:"0")
+2018-02-09 14:39:40.143 -0600	SUCCESS		Execution Time 0:00:04 Questions.script

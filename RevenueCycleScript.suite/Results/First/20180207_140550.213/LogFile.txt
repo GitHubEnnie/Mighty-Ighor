@@ -1,0 +1,6 @@
+﻿2018-02-07 14:05:50.218 -0600	START		Running Handlers/First.script
+2018-02-07 14:05:58.082 -0600	imagefound	(TEXT:"Immediately Post Refunds")	found at (309, 292)	2	on_selectimmediatepostoption	Handlers/First.script
+2018-02-07 14:05:58.196 -0600	doubleclick		at (309, 292)	3	on_selectimmediatepostoption	Handlers/First.script
+2018-02-07 14:05:59.278 -0600	click		at (391, 324)	6	on_selectimmediatepostoption	Handlers/First.script
+2018-02-07 14:05:59.773 -0600	EndTestCase		(Duration:"9.547", Errors:"0", Exceptions:"0", StartTime:"2018-02-07 14:05:50 -0600", Successes:"1", TestCase:"Handlers/First.script", Warnings:"0")
+2018-02-07 14:05:59.827 -0600	SUCCESS		Execution Time 0:00:09 Handlers/First.script

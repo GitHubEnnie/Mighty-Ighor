@@ -1,0 +1,4 @@
+﻿2018-02-07 14:18:33.441 -0600	START		Running First.script
+2018-02-07 14:18:40.845 -0600	Exception	Tools	No Image Found On Screen: "Tools"	2	on_openaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-07 14:18:41.356 -0600	EndTestCase		(Duration:"7.909", Errors:"1", Exceptions:"1", StartTime:"2018-02-07 14:18:33 -0600", Successes:"0", TestCase:"First.script", Warnings:"0")
+2018-02-07 14:18:41.359 -0600	ABORTED		Execution Time 0:00:08 First.script

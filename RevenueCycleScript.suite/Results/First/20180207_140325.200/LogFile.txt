@@ -1,0 +1,4 @@
+﻿2018-02-07 14:03:25.207 -0600	START		Running Handlers/First.script
+2018-02-07 14:03:25.370 -0600	Exception		Remote Connection Unavailable	2	on_selectimmediatepostoption	Handlers/First.script
+2018-02-07 14:03:25.600 -0600	EndTestCase		(Duration:"0.387", Errors:"1", Exceptions:"1", StartTime:"2018-02-07 14:03:25 -0600", Successes:"0", TestCase:"Handlers/First.script", Warnings:"0")
+2018-02-07 14:03:25.630 -0600	FAILURE		No Remote Connection imagefound Error - Remote Connection Unavailable -- Execution Time 0:00:00 Handlers/First.script

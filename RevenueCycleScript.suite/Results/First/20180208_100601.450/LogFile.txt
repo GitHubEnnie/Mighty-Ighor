@@ -1,0 +1,22 @@
+﻿2018-02-08 10:06:01.450 -0600	START		Running First.script
+2018-02-08 10:06:01.905 -0600	doubleclick	BillingEntityTool	at (246, 82)	2	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 10:06:02.916 -0600	typetext		[pageUp]	5	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 10:06:03.936 -0600	set		SEARCHRECTANGLE = (SearchForBillingEntity_A,SearchForBillingEntity_B)	8	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 10:06:04.699 -0600	imagefound	(TEXT:"PFT Auto NPBE")	found at (231, 431)	9	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 10:06:04.808 -0600	click		at (231, 431)	10	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 10:06:05.808 -0600	set		SEARCHRECTANGLE = ()	13	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 10:06:07.026 -0600	click	ToolIcon	at (178, 87)	2	on_openaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-08 10:06:07.902 -0600	click	AccountPayableOptions	at (307, 309)	3	on_openaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-08 10:06:08.793 -0600	click	LAWSON	at (340, 318)	4	on_openaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-08 10:06:14.225 -0600	imagefound	(TEXT:"Immediately Post Refunds")	found at (254, 321)	2	on_selectimmediatepostoption	APRefundUtilities.script
+2018-02-08 10:06:14.396 -0600	doubleclick		at (254, 321)	3	on_selectimmediatepostoption	APRefundUtilities.script
+2018-02-08 10:06:15.480 -0600	click		at (336, 353)	6	on_selectimmediatepostoption	APRefundUtilities.script
+2018-02-08 10:06:20.578 -0600	imagefound	(TEXT:"Void Refund Workflow")	found at (246, 417)	2	on_selectvoidrefundoption	APRefundUtilities.script
+2018-02-08 10:06:20.734 -0600	doubleclick		at (246, 417)	3	on_selectvoidrefundoption	APRefundUtilities.script
+2018-02-08 10:06:21.850 -0600	click		at (329, 434)	8	on_selectvoidrefundoption	APRefundUtilities.script
+2018-02-08 10:06:27.083 -0600	imagefound	(TEXT:"Post on Check Cut")	found at (238, 431)	2	on_selectpostoncheckcutoption	APRefundUtilities.script
+2018-02-08 10:06:27.256 -0600	doubleclick		at (238, 431)	3	on_selectpostoncheckcutoption	APRefundUtilities.script
+2018-02-08 10:06:28.366 -0600	click		at (335, 464)	6	on_selectpostoncheckcutoption	APRefundUtilities.script
+2018-02-08 10:06:29.265 -0600	click	OKButton	at (386, 473)	2	on_closeaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-08 10:06:29.702 -0600	EndTestCase		(Duration:"28.252", Errors:"0", Exceptions:"0", StartTime:"2018-02-08 10:06:01 -0600", Successes:"1", TestCase:"First.script", Warnings:"0")
+2018-02-08 10:06:29.733 -0600	SUCCESS		Execution Time 0:00:28 First.script

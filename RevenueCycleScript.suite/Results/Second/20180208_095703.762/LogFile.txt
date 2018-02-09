@@ -1,0 +1,7 @@
+﻿2018-02-08 09:57:03.778 -0600	START		Running Second.script
+2018-02-08 09:57:03.902 -0600	set		SEARCHRECTANGLE = (SearchForBillingEntity_A,SearchForBillingEntity_B)	1	on_second	Second.script
+2018-02-08 09:57:04.605 -0600	imagefound	(TEXT:"Profit Auto NPBE")	found at (233, 467)	2	on_second	Second.script
+2018-02-08 09:57:04.714 -0600	click		at (233, 467)	3	on_second	Second.script
+2018-02-08 09:57:05.716 -0600	set		SEARCHRECTANGLE = ()	6	on_second	Second.script
+2018-02-08 09:57:06.223 -0600	EndTestCase		(Duration:"2.445", Errors:"0", Exceptions:"0", StartTime:"2018-02-08 09:57:03 -0600", Successes:"1", TestCase:"Second.script", Warnings:"0")
+2018-02-08 09:57:06.269 -0600	SUCCESS		Execution Time 0:00:03 Second.script

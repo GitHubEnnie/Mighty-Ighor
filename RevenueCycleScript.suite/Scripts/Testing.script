@@ -1,0 +1,17 @@
+﻿to greetTheUser
+	put "Welcome to Eggplant Class"
+end greetTheUser
+
+//Adding a comment
+Put 5 into b
+add 10 to b
+Log b
+
+//Set the SearchRectangle to ("BE_A","BE_B")
+DoubleClick "BillingEntityTool"
+Wait 2
+Repeat until ImageFound(1, (text:"Profit Auto NPBE"))
+	Typetext pageUp
+	Wait 1
+End Repeat
+Click FoundImageLocation()

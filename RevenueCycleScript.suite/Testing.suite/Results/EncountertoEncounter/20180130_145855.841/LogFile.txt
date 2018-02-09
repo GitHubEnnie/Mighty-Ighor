@@ -1,7 +1,0 @@
-﻿2018-01-30 14:58:55.845 -0600	START		Running EncountertoClaim.script
-2018-01-30 14:58:56.115 -0600	click	SelfPayTransactionsTab	at (603, 348)	10	on_encountertoclaim	EncountertoClaim.script
-2018-01-30 14:58:56.907 -0600	click	FirstTransaction	at (151, 465)	11	on_encountertoclaim	EncountertoClaim.script
-2018-01-30 14:58:57.617 -0600	typetext		[downArrow]	13	on_encountertoclaim	EncountertoClaim.script
-2018-01-30 14:58:58.418 -0600	rightclick	SelectedTransaction	at (73, 483)	15	on_encountertoclaim	EncountertoClaim.script
-2018-01-30 14:58:58.816 -0600	EndTestCase		(Duration:"2.966", Errors:"0", Exceptions:"0", StartTime:"2018-01-30 14:58:55 -0600", Successes:"1", TestCase:"EncountertoClaim.script", Warnings:"0")
-2018-01-30 14:58:58.868 -0600	SUCCESS		Execution Time 0:00:03 EncountertoClaim.script

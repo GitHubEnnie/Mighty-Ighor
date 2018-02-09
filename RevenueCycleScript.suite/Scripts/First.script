@@ -1,0 +1,10 @@
+﻿APRefundUtilities.FindFacilityInPftTool 1, "PFT Auto NPBE"
+wait 1
+APRefundUtilities.OpenAccountPayableOptionWindow
+wait 1
+APRefundUtilities.selectImmediatePostOption "Yes"
+wait 1
+APRefundUtilities.selectVoidRefundOption "No"
+wait 1
+APRefundUtilities.selectPostOnCheckCutOption "Yes"
+APRefundUtilities.closeAccountPayableOptionWindow

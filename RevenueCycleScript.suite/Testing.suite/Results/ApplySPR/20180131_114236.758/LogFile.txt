@@ -1,6 +1,0 @@
-﻿2018-01-31 11:42:36.763 -0600	START		Running ApplySPR.script
-2018-01-31 11:42:37.005 -0600	click	DropDownMenu	at (987, 162)	1	on_applyspr	ApplySPR.script
-2018-01-31 11:42:37.727 -0600	set		SEARCHRECTANGLE = (TL_A,TL_B)	2	on_applyspr	ApplySPR.script
-2018-01-31 11:42:38.011 -0600	click	(TEXT:"Apply Self Pay Remittance")	at (878, 296)	5	on_applyspr	ApplySPR.script
-2018-01-31 11:42:38.674 -0600	EndTestCase		(Duration:"1.906", Errors:"0", Exceptions:"0", StartTime:"2018-01-31 11:42:36 -0600", Successes:"1", TestCase:"ApplySPR.script", Warnings:"0")
-2018-01-31 11:42:38.705 -0600	SUCCESS		Execution Time 0:00:02 ApplySPR.script

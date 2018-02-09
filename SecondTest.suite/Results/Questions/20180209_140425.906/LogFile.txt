@@ -1,0 +1,4 @@
+﻿2018-02-09 14:04:25.912 -0600	START		Running Script.script
+2018-02-09 14:04:28.992 -0600	Log		I came to see you	3	on_answerquestion	NewTest1.script
+2018-02-09 14:04:30.018 -0600	EndTestCase		(Duration:"4.099", Errors:"0", Exceptions:"0", StartTime:"2018-02-09 14:04:25 -0600", Successes:"1", TestCase:"Script.script", Warnings:"0")
+2018-02-09 14:04:30.061 -0600	SUCCESS		Execution Time 0:00:05 Script.script

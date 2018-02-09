@@ -1,5 +1,0 @@
-﻿2018-01-30 14:49:08.654 -0600	START		Running EncountertoClaim.script
-2018-01-30 14:49:08.922 -0600	click	SelfPayTransactionsTab	at (568, 452)	10	on_encountertoclaim	EncountertoClaim.script
-2018-01-30 14:49:28.789 -0600	imagefound	(TEXT:"$5.00")	Unable to Find Image (TEXT:"$5.00") within 1.00 seconds	11	on_encountertoclaim	EncountertoClaim.script
-2018-01-30 14:49:29.232 -0600	EndTestCase		(Duration:"20.572", Errors:"0", Exceptions:"0", StartTime:"2018-01-30 14:49:08 -0600", Successes:"1", TestCase:"EncountertoClaim.script", Warnings:"0")
-2018-01-30 14:49:29.272 -0600	SUCCESS		Execution Time 0:00:21 EncountertoClaim.script

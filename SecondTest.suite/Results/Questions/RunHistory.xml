@@ -1,0 +1,207 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Script">
+ <run>
+  <RunDate>2018-02-09 14:03:22.113 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.684000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140322.113/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:04:02.330 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.374000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140402.330/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:04:25.906 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.110000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140425.906/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:05:42.037 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.061000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140542.037/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:06:30.713 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.736000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140630.713/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:07:50.404 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.444000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140750.404/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:08:04.342 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.057000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140804.342/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:08:35.197 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>8.182000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140835.197/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:09:08.166 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.905000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_140908.166/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:10:13.366 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.319000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_141013.366/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:10:22.052 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.173000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_141022.052/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:10:35.694 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.022000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_141035.694/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:16:31.377 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.889000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180209_141631.377/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;answerquestion&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:16:40.578 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>7.913000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180209_141640.578/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;title&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:17:36.845 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.312000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180209_141736.845/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;title&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:17:59.540 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.087000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_141759.540/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-09 14:39:36.657 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.443000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180209_143936.657/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>
