@@ -1,0 +1,10 @@
+﻿to AnswerQuestion1
+	Answer "Who are you?" from list ("Tee", "Tim", "Linda") title "Question of the Day" 
+	log it
+end AnswerQuestion1
+
+to AnswerQuestion2
+	Ask "Where are you?" with "I am at the store" title "Question of the Day" message "Learn from this"
+	Log it
+end AnswerQuestion2
+
