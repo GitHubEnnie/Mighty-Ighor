@@ -1,5 +1,0 @@
-﻿2018-01-31 10:50:38.891 -0600	START		Running ApplySPR.script
-2018-01-31 10:50:39.132 -0600	click	DropDownMenu	at (987, 161)	1	on_applyspr	ApplySPR.script
-2018-01-31 10:50:39.140 -0600	Exception		Image Property List did not contain "ImageName" property	2	on_applyspr	ApplySPR.script
-2018-01-31 10:50:39.708 -0600	EndTestCase		(Duration:"0.808", Errors:"1", Exceptions:"1", StartTime:"2018-01-31 10:50:38 -0600", Successes:"0", TestCase:"ApplySPR.script", Warnings:"0")
-2018-01-31 10:50:39.838 -0600	FAILURE	Screen_Error.png	Error Running Script Command click Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:01 ApplySPR.script

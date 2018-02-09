@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Handlers/Second">
+ <run>
+  <RunDate>2018-02-07 14:01:16.420 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.347000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180207_140116.420/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;first&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-07 14:01:32.794 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.492000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180207_140132.794/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;First&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-07 14:01:46.150 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.304000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180207_140146.150/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;Handlers&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-07 14:04:26.028 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.518000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180207_140426.028/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;Handlers&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-07 14:04:45.838 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.484000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180207_140445.838/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;First&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-07 14:06:15.382 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.493000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180207_140615.382/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;First&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-07 14:16:44.368 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.310000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180207_141644.368/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-07 14:41:06.589 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.039000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180207_144106.589/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;selectimmediatepostoption&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-08 09:56:35.708 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.667000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180208_095635.708/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-02-08 09:57:03.762 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.461000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180208_095703.762/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

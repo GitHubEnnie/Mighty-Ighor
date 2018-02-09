@@ -1,0 +1,13 @@
+﻿2018-02-08 09:14:15.664 -0600	START		Running First.script
+2018-02-08 09:14:16.124 -0600	doubleclick	BillingEntityTool	at (501, 192)	2	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 09:14:17.156 -0600	typetext		[pageUp]	5	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 09:14:40.170 -0600	imagefound	(TEXT:"BillingEntity")	Unable to Find Image (TEXT:"BillingEntity") within 1.00 seconds	8	on_findfacilityinpfttool	APRefundUtilities.script
+2018-02-08 09:14:40.327 -0600	click	Tools	at (179, 87)	2	on_openaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-08 09:14:41.192 -0600	click	AccountPayableOptions	at (307, 309)	3	on_openaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-08 09:14:42.080 -0600	click	LAWSON	at (381, 289)	4	on_openaccountpayableoptionwindow	APRefundUtilities.script
+2018-02-08 09:15:06.974 -0600	imagefound	(TEXT:"Immediately Post Refunds")	Unable to Find Image (TEXT:"Immediately Post Refunds") within 1.00 seconds	2	on_selectimmediatepostoption	APRefundUtilities.script
+2018-02-08 09:15:12.403 -0600	imagefound	(TEXT:"Void Refund Workflow")	found at (301, 388)	2	on_selectvoidrefundoption	APRefundUtilities.script
+2018-02-08 09:15:12.606 -0600	doubleclick		at (301, 388)	3	on_selectvoidrefundoption	APRefundUtilities.script
+2018-02-08 09:15:13.664 -0600	click		at (384, 405)	8	on_selectvoidrefundoption	APRefundUtilities.script
+2018-02-08 09:15:14.117 -0600	EndTestCase		(Duration:"58.453", Errors:"0", Exceptions:"0", StartTime:"2018-02-08 09:14:15 -0600", Successes:"1", TestCase:"First.script", Warnings:"0")
+2018-02-08 09:15:14.163 -0600	SUCCESS		Execution Time 0:00:59 First.script

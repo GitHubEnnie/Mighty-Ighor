@@ -1,0 +1,3 @@
+﻿2018-02-07 14:12:51.540 -0600	START		Running Handlers/First.script
+2018-02-07 14:12:52.031 -0600	EndTestCase		(Duration:"0.486", Errors:"1", Exceptions:"0", StartTime:"2018-02-07 14:12:51 -0600", Successes:"0", TestCase:"Handlers/First.script", Warnings:"0")
+2018-02-07 14:12:52.145 -0600	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'Handlers'. -- Execution Time 0:00:01 Handlers/First.script

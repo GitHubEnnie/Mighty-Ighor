@@ -1,3 +1,0 @@
-﻿2018-01-31 11:42:02.913 -0600	START		Running ApplySPR.script
-2018-01-31 11:42:02.924 -0600	EndTestCase		(Duration:"0.004", Errors:"1", Exceptions:"0", StartTime:"2018-01-31 11:42:02 -0600", Successes:"0", TestCase:"ApplySPR.script", Warnings:"0")
-2018-01-31 11:42:03.177 -0600	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in applyspr:\nSyntax Error at line 10: Syntax Error - can't understand " " at or near character 235 -- Execution Time 0:00:00 ApplySPR.script

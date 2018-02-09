@@ -1,0 +1,4 @@
+﻿2018-02-07 14:16:44.374 -0600	START		Running Second.script
+2018-02-07 14:16:47.277 -0600	imagefound	(TEXT:"Immediately Post Refunds")	Unable to Find Image (TEXT:"Immediately Post Refunds") within 1.00 seconds	2	on_selectimmediatepostoption	First.script
+2018-02-07 14:16:47.679 -0600	EndTestCase		(Duration:"3.3", Errors:"0", Exceptions:"0", StartTime:"2018-02-07 14:16:44 -0600", Successes:"1", TestCase:"Second.script", Warnings:"0")
+2018-02-07 14:16:47.716 -0600	SUCCESS		Execution Time 0:00:03 Second.script

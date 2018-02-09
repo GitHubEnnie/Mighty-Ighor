@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-02-07 14:12:28.897 -0600,"Failure",0:00:00,1,0,0,"20180207_141228.897/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Handlers'.",0
+2018-02-07 14:12:40.274 -0600,"Failure",0:00:00,1,0,0,"20180207_141240.274/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'First'.",0

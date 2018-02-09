@@ -1,0 +1,7 @@
+﻿2018-02-08 09:56:35.740 -0600	START		Running Second.script
+2018-02-08 09:56:35.881 -0600	set		SEARCHRECTANGLE = (SearchForBillingEntity_A,SearchForBillingEntity_B)	1	on_second	Second.script
+2018-02-08 09:56:36.854 -0600	imagefound	(TEXT:"Overland Hospital")	found at (234, 396)	2	on_second	Second.script
+2018-02-08 09:56:36.911 -0600	click		at (234, 396)	3	on_second	Second.script
+2018-02-08 09:56:37.913 -0600	set		SEARCHRECTANGLE = ()	6	on_second	Second.script
+2018-02-08 09:56:38.375 -0600	EndTestCase		(Duration:"2.635", Errors:"0", Exceptions:"0", StartTime:"2018-02-08 09:56:35 -0600", Successes:"1", TestCase:"Second.script", Warnings:"0")
+2018-02-08 09:56:38.422 -0600	SUCCESS		Execution Time 0:00:03 Second.script

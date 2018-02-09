@@ -1,0 +1,4 @@
+﻿2018-02-09 14:05:42.044 -0600	START		Running Script.script
+2018-02-09 14:05:46.114 -0600	Log		Tim	3	on_answerquestion	NewTest1.script
+2018-02-09 14:05:47.098 -0600	EndTestCase		(Duration:"5.048", Errors:"0", Exceptions:"0", StartTime:"2018-02-09 14:05:42 -0600", Successes:"1", TestCase:"Script.script", Warnings:"0")
+2018-02-09 14:05:47.465 -0600	SUCCESS		Execution Time 0:00:05 Script.script
