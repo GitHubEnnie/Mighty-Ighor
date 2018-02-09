@@ -12,3 +12,6 @@ to AnswerQuestion2
 	Ask "What is you name?" with "Enitan" title "Question of the Day" message "Learn from this"
 	Log it
 end AnswerQuestion2
+
+put a into f
+log f
